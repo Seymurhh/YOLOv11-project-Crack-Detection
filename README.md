@@ -1,4 +1,4 @@
-Infrastructure Crack Detection and Localization Using YOLOv11
+**Infrastructure Crack Detection and Localization Using YOLOv11**
 
 This repository showcases an automated system for crack detection and classification in civil infrastructure leveraging YOLOv11. It addresses the critical need for efficient, reliable, and scalable methods to monitor the structural integrity of infrastructure such as bridges, roads, and buildings.
 
@@ -34,6 +34,6 @@ Setup and Usage:
 
 Instructions for setting up the environment, training the models, and interpreting the results are detailed within the provided Jupyter notebook in the repository.
 
-Dataset Source:https://universe.roboflow.com/iiti/civil-faults-detection
+Dataset Source:
 
-Civil Fault Detection Dataset
+Civil Fault Detection Dataset: https://universe.roboflow.com/iiti/civil-faults-detection
